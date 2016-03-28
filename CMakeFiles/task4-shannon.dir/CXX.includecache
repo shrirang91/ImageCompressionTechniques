@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shrirang/Documents/openCV codes/cse408phase2/task4-shannon.cpp
+fstream
+-
+iostream
+-
+string
+-
+algorithm
+-
+map
+-
+vector
+-
+sstream
+-
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shrirang/Documents/openCV codes/cse408phase2/task4LZW.cpp
+fstream
+-
+iostream
+-
+iomanip
+-
+string
+-
+math.h
+-
+algorithm
+-
+unordered_map
+-
+bitset
+-
+sstream
+-
+

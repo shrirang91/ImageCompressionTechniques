@@ -1,0 +1,11 @@
+/Users/shrirang/Documents/openCV codes/cse408phase2/CMakeFiles/task5-2.dir
+/Users/shrirang/Documents/openCV codes/cse408phase2/CMakeFiles/task5-1.dir
+/Users/shrirang/Documents/openCV codes/cse408phase2/CMakeFiles/task4_NC.dir
+/Users/shrirang/Documents/openCV codes/cse408phase2/CMakeFiles/task5.dir
+/Users/shrirang/Documents/openCV codes/cse408phase2/CMakeFiles/task4-shannon.dir
+/Users/shrirang/Documents/openCV codes/cse408phase2/CMakeFiles/task4_ACD.dir
+/Users/shrirang/Documents/openCV codes/cse408phase2/CMakeFiles/task3.dir
+/Users/shrirang/Documents/openCV codes/cse408phase2/CMakeFiles/task2.dir
+/Users/shrirang/Documents/openCV codes/cse408phase2/CMakeFiles/task4.dir
+/Users/shrirang/Documents/openCV codes/cse408phase2/CMakeFiles/task4LZW.dir
+/Users/shrirang/Documents/openCV codes/cse408phase2/CMakeFiles/task1.dir
